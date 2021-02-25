@@ -1,0 +1,22 @@
+{
+  "indicators": [
+    {
+      "date": "20.02.2021 01:04:42",
+      "pair": "BTC - USDT",
+      "start": 55798.73,
+      "now": 55798.73,
+      "marker": 55000,
+      "type": false,
+      "id": 1
+    },
+    {
+      "date": "20.02.2021 01:06:02",
+      "pair": "BTC - UAH",
+      "start": 1492322,
+      "now": 1492340,
+      "marker": 1500000,
+      "type": true,
+      "id": 2
+    }
+  ]
+}
